@@ -22,6 +22,9 @@
     opacity: 0;
     padding: 30px;
 }
+.popupBg img{
+    max-width: 100%;
+}
 .popupBg i{
     cursor: pointer;
     position: fixed;
